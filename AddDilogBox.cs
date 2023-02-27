@@ -57,6 +57,10 @@ namespace khrogaapp
         {
             get { return radioBtnState; }
         }
+        public int setR
+        {
+            get { return radioBtnState; }
+        }
     }
 }
 
